@@ -1,4 +1,4 @@
-Throwaway Account, because real account contains bad words :D
+Throwaway account, because real account contains bad words :D
 <!---
 leonjonasjakobs/leonjonasjakobs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
